@@ -4,15 +4,8 @@
 
 ![Github Views](https://enj51elrl78ffyf.m.pipedream.net)
 
-### Built With
-
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
-
-<p align="right">(<a href="#top">back to top</a>)</p>
+<html>
+	<head>
+	</head>
+	<p align="right">(<a href="#top">back to top</a>)</p>
+</html>
