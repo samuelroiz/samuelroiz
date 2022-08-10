@@ -58,7 +58,7 @@
 		<a href="https://games.crossfit.com/athlete/558853"><img width="35%" align="right" src="https://github.com/samuelroiz/samuelroiz.github.io/blob/main/images_for_readme/snatch_all_day_gif.gif?raw=true"></a>
 		<p align="left"> &emsp; I began my CrossFit career in 2009 at the Cave located in <b>Northern California</b>. In my early years, I took courses in gymnastics and parkour before joining the CrossFit community.
 		
-&emsp; After years of training as an athlete, I earned my CrossFit <b>Level 1 Certification</b> in 2016, with a specialization in <b>Olympic Weightlifting</b>, and began my coaching career. I have been a member of the CrossFit community since the beginning of CrossFit and my passion for fitness drives me to continue inspiring members to achieve their gym goals. Through my years of experience and training, I continue to share his knowledge and expertise with our hearing and non-hearing members as he is also proficient in <b>American Sign Language</b>.
+&emsp; After years of training as an athlete, I earned my CrossFit <b>Level 1 Certification</b> in 2016, with a specialization in <b>Olympic Weightlifting</b>, and began my coaching career. I have been a member of the CrossFit community since the beginning of CrossFit and my passion for fitness drives me to continue inspiring members to achieve their gym goals. Through my years of experience and training, I continue to share my knowledge and expertise with our hearing and non-hearing members as I is also proficient in <b>American Sign Language</b>.
 <br>
 <br>
 <br>
