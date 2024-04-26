@@ -9,7 +9,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://github.com/samuelroiz"><img width="36px" alt="GitHub Homepage" title="GitHub Homepage" src="https://github.com/samuelroiz/samuelroiz.github.io/blob/main/images_for_readme/github_icon_blue.png?raw=true"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-<a href="https://github.com/samuelroiz/samuelroiz.github.io"><img width="36px" alt="Portfolio" title="Portfolio" src="https://samuelroiz.github.io/index.html"/></a>
+<a href="https://samuelroiz.github.io/index.html"><img width="36px" alt="Portfolio" title="Portfolio" src="https://github.com/samuelroiz/samuelroiz.github.io/blob/main/assets/images/pip_boy_imgg.jpeg"/></a>
 &#8287;&#8287;&#8287;&#8287;&#8287;
 <a href="https://samuelroiz.github.io/PAGES-FILES/dog-related/dog-blog.html"><img width="36px" alt="Dog Foster Rescue" title="Dog Foster Rescue" src="https://github.com/samuelroiz/samuelroiz.github.io/blob/main/assets/images/penny_head.png"/></a>
 </p>
