@@ -13,10 +13,10 @@
 &#8287;&#8287;&#8287;&#8287;&#8287;
 <a href="https://samuelroiz.github.io/PAGES-FILES/dog-related/dog-blog.html"><img width="36px" alt="Dog Foster Rescue" title="Dog Foster Rescue" src="https://github.com/samuelroiz/samuelroiz.github.io/blob/main/assets/images/penny_head.png"/></a>
 </p>
-	<h2>  Skills &#x1F468;&#x200D;&#x1F4BB; </h2>
-		<a href="https://github.com/samuelroiz"><img align="right" width="43.3%" src="https://github.com/samuelroiz/samuelroiz.github.io/blob/main/images_for_readme/cat_on_computer_gif.gif?raw=true"/></a>
+<a href="https://github.com/samuelroiz"><img align="right" width="43.3%" src="https://github.com/samuelroiz/samuelroiz.github.io/blob/main/images_for_readme/cat_on_computer_gif.gif?raw=true"/></a>
 <!-- 		<a href="https://github.com/samuelroiz"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=samuelroiz"></a> -->
 		<br>
+	<h2>  Skills &#x1F468;&#x200D;&#x1F4BB; </h2>
 		<a align="left" href="https://www.python.org/"><img alt="Python" title="Python"  width="25px" src="https://github.com/samuelroiz/samuelroiz.github.io/blob/main/images_for_readme/python_logo.jpg?raw=true"></a>
 		<a align="left" href="https://html.com/"><img alt="HTML, JS, CSS" title="HTML/JS/CSS" width="25px" src="https://github.com/samuelroiz/samuelroiz.github.io/blob/main/images_for_readme/css_java_jss_logo.jpg?raw=true"></a>
 		<a align="left" href=https://www.markdownguide.org/""><img alt="MARKDOWN" title="MARKDOWN" width="25px" src="https://github.com/samuelroiz/samuelroiz.github.io/blob/main/images_for_readme/markdown_logo.png?raw=true"></a>
