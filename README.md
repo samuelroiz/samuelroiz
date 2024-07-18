@@ -15,7 +15,7 @@
 </p>
 	<h2>  Skills &#x1F468;&#x200D;&#x1F4BB; </h2>
 		<a href="https://github.com/samuelroiz"><img align="right" width="43.3%" src="https://github.com/samuelroiz/samuelroiz.github.io/blob/main/images_for_readme/cat_on_computer_gif.gif?raw=true"/></a>
-		<a href="https://github.com/samuelroiz"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=samuelroiz"></a>
+<!-- 		<a href="https://github.com/samuelroiz"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=samuelroiz"></a> -->
 		<br>
 		<a align="left" href="https://www.python.org/"><img alt="Python" title="Python"  width="25px" src="https://github.com/samuelroiz/samuelroiz.github.io/blob/main/images_for_readme/python_logo.jpg?raw=true"></a>
 		<a align="left" href="https://html.com/"><img alt="HTML, JS, CSS" title="HTML/JS/CSS" width="25px" src="https://github.com/samuelroiz/samuelroiz.github.io/blob/main/images_for_readme/css_java_jss_logo.jpg?raw=true"></a>
